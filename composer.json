@@ -26,12 +26,13 @@
         "symfony/validator": "4.4.*",
         "symfony/web-link": "4.4.*",
         "symfony/yaml": "4.4.*",
-        "symfony/profiler-pack": "*"
-    },
-    "require-dev": {
+        "symfony/profiler-pack": "*",
         "symfony/debug-pack": "*",
         "symfony/maker-bundle": "^1.0",
         "symfony/test-pack": "*"
+    },
+    "require-dev": {
+
     },
     "config": {
         "preferred-install": {
