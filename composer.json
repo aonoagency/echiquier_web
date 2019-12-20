@@ -29,7 +29,8 @@
         "symfony/profiler-pack": "*",
         "symfony/debug-pack": "*",
         "symfony/maker-bundle": "^1.0",
-        "symfony/test-pack": "*"
+        "symfony/test-pack": "*",
+        "ext-pdo_sqlite": "*"
     },
     "require-dev": {
 
