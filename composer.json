@@ -63,7 +63,7 @@
     },
     "scripts": {
         "auto-scripts": {
-
+            "bin/console doctrine:schema:update --force": "cmd"
         },
         "post-install-cmd": [
             "@auto-scripts"
