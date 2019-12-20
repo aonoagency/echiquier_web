@@ -497,9 +497,6 @@
     "twig/twig": {
         "version": "v2.12.2"
     },
-    "vlucas/phpdotenv": {
-        "version": "v2.6.1"
-    },
     "webmozart/assert": {
         "version": "1.6.0"
     },
